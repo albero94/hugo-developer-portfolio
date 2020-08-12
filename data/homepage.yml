@@ -19,23 +19,27 @@ skill:
   enable: true
   item:
     - title: C#
-      logo: ../static/logos/C_Sharp_logo.svg
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597260164/C_Sharp_logo_yagaj2.svg
     - title: JavaScript
       logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
     - title: SQL
-      logo: https://github.com/albero94/hugo-developer-portfolio/blob/master/static/logos/sql.jpg
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597260175/sql_rsxmdi.jpg
     - title: Python
       logo: https://res.cloudinary.com/aalbero/image/upload/v1597260174/python_z1bzpj.jpg
     - title: HTML
-      logo: https://github.com/albero94/hugo-developer-portfolio/blob/master/static/logos/html.png
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597260164/html_iiwykm.png
     - title: CSS
-      logo: https://github.com/albero94/hugo-developer-portfolio/blob/master/static/logos/css.png
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597260165/css_sdj2zf.svg
     - title: .NET Core
-      logo: https://github.com/albero94/hugo-developer-portfolio/blob/master/static/logos/.net_core.png
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597260162/.net_core_pxrqly.png
     - title: Node.js
-      logo: https://github.com/albero94/hugo-developer-portfolio/blob/master/static/logos/nodejs.svg
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597260172/nodejs_tsvkve.svg
     - title: React.js
-      logo:  https://github.com/albero94/hugo-developer-portfolio/blob/master/static/logos/react.svg
+      logo:  https://res.cloudinary.com/aalbero/image/upload/v1597260175/react_nvjgwy.svg
+    - title: Docker
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597260172/docker_w6aec5.png
+    - title: Git
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597260162/git_srcx8t.svg
 experience:
   enable: true
   item:
