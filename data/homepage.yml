@@ -28,12 +28,10 @@ experience:
       title: init.g
       company: Google
       duration: November 2019
-  item:
     - logo:
       title: Test
       company: Test
       duration: November 2020
-  item:
     - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
       title: Test 2
       company: Test 2
