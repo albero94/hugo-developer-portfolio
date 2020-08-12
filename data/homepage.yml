@@ -18,9 +18,24 @@ about:
 skill:
   enable: true
   item:
+    - title: C#
+      logo: https://github.com/albero94/hugo-developer-portfolio/blob/master/static/logos/C_Sharp_logo.svg
     - title: JavaScript
       logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
-      description: Details coming soon, contact me if you want to know more
+    - title: SQL
+      logo: https://github.com/albero94/hugo-developer-portfolio/blob/master/static/logos/sql.jpg
+    - title: Python
+      logo: https://github.com/albero94/hugo-developer-portfolio/blob/master/static/logos/python.jpg
+    - title: HTML
+      logo: https://github.com/albero94/hugo-developer-portfolio/blob/master/static/logos/html.png
+    - title: CSS
+      logo: https://github.com/albero94/hugo-developer-portfolio/blob/master/static/logos/css.png
+    - title: .NET Core
+      logo: https://github.com/albero94/hugo-developer-portfolio/blob/master/static/logos/.net_core.png
+    - title: Node.js
+      logo: https://github.com/albero94/hugo-developer-portfolio/blob/master/static/logos/nodejs.svg
+    - title: React.js
+      logo:  https://github.com/albero94/hugo-developer-portfolio/blob/master/static/logos/react.svg
 experience:
   enable: true
   item:
