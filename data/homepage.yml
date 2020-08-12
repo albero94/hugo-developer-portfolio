@@ -25,7 +25,7 @@ skill:
     - title: SQL
       logo: https://github.com/albero94/hugo-developer-portfolio/blob/master/static/logos/sql.jpg
     - title: Python
-      logo: https://github.com/albero94/hugo-developer-portfolio/blob/master/static/logos/python.jpg
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597260174/python_z1bzpj.jpg
     - title: HTML
       logo: https://github.com/albero94/hugo-developer-portfolio/blob/master/static/logos/html.png
     - title: CSS
