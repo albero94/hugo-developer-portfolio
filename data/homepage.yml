@@ -15,7 +15,7 @@ about:
   button:
     btnText: Find out more
     URL: "/about"
-skill:
+skills:
   enable: true
   item:
     - title: JavaScript
