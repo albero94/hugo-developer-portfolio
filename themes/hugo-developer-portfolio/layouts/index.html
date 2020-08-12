@@ -197,26 +197,26 @@
     <div class="uk-container">
         <h1 class="uk-heading-line  uk-heading-medium" style="text-align: center;"><span>Experience</span></h1>
 
-        <div class="uk-child-width-1-4@m uk-child-width-1-2  uk-text-center uk-flex-center" uk-grid
-            style="padding-left: 20px; padding-right: 20px">
-
-            {{ range .Site.Data.homepage.experience.item }}
-            <div>
-                <div class="uk-card uk-card-default uk-height-large">
-                    <div class="uk-card-media-top">
-                        <img class="contain experience" src="{{.logo}}" alt="" style="padding: 20px" loading="lazy">
-                    </div>
-                    <div class="uk-card-body" style="padding: initial">
-                        <div style="height: 5em">
-                            <h3 class="uk-card-title uk-heading-small">{{.title}}</h3>
-                        </div>
-                        <p style="height: 4em">{{.company}}</p>
-                        <p>{{.duration}}</p>
-                    </div>
-                </div>
+        
+        {{ range .Site.Data.homepage.experience.item }}
+        <div style="margin-bottom: 3rem;">
+            <div style="display: flex; justify-content: space-between;">
+                <img class="contain experience" src="{{.logo}}" alt="" style="padding: 20px; max-width: 200px;" loading="lazy">
+                <h2 style="width: 500px; text-align: center;">{{.title}}</h2>
+                <h5 style="width: 250px; text-align: right; margin-top: 50px;">{{.duration}}</h5>
             </div>
-            {{ end }}
+            <div>
+                <p>
+                    {{.description}}
+                </p>
+                <ul>
+                    {{ range .bullets }}
+                    <li>{{.item}}</li>
+                    {{ end }}
+                </ul>
+            </div>
         </div>
+        {{ end }}
 </section>
 {{ end }}
 

@@ -24,42 +24,69 @@ skill:
       logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
     - title: SQL
       logo: https://res.cloudinary.com/aalbero/image/upload/v1597260175/sql_rsxmdi.jpg
-    - title: Python
-      logo: https://res.cloudinary.com/aalbero/image/upload/v1597260174/python_z1bzpj.jpg
-    - title: HTML
-      logo: https://res.cloudinary.com/aalbero/image/upload/v1597260164/html_iiwykm.png
-    - title: CSS
-      logo: https://res.cloudinary.com/aalbero/image/upload/v1597260165/css_sdj2zf.svg
     - title: .NET Core
       logo: https://res.cloudinary.com/aalbero/image/upload/v1597260162/.net_core_pxrqly.png
+    - title: Git
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597260162/git_srcx8t.svg
+    - title: Algorithms & Data Structures
+    - title: Object Oriented Programming and SOLID
+    - title: SQL Server
+  item2:
+    - title: Python
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597260174/python_z1bzpj.jpg
     - title: Node.js
       logo: https://res.cloudinary.com/aalbero/image/upload/v1597260172/nodejs_tsvkve.svg
     - title: React.js
       logo:  https://res.cloudinary.com/aalbero/image/upload/v1597260175/react_nvjgwy.svg
     - title: Docker
       logo: https://res.cloudinary.com/aalbero/image/upload/v1597260172/docker_w6aec5.png
-    - title: Git
-      logo: https://res.cloudinary.com/aalbero/image/upload/v1597260162/git_srcx8t.svg
-  item2:
-    - title: C#
-      logo: https://res.cloudinary.com/aalbero/image/upload/v1597260164/C_Sharp_logo_yagaj2.svg
-    - title: JavaScript
-      logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
+    - title: Xamarin
+    - title: Flutter
+    - title: Test Driven Development
+    - title: Azure
+    - title: AWS
+    - title: MySQL
+    - title: PostgreSQL
+    - title: WSL
 experience:
   enable: true
   item:
-    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
-      title: init.g
-      company: Google
-      duration: November 2019
-    - logo:
-      title: Test
-      company: Test
-      duration: November 2020
-    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
-      title: Test 2
-      company: Test 2
-      duration: November 2021
+    - logo: https://res.cloudinary.com/aalbero/image/upload/v1597272114/AQUAS_Logo_bpgovg.png
+      title: Software Engineer
+      company: AQUAS Inc.
+      duration: October 2017 - December 2018
+      description: Updated a web application used by USDA, AMS graders for Time and Attendance, Expenses and Billing
+      bullets:
+        - item: Participated in all phases of the software development life cycle
+        - item: Designed and implemented software solutions using ASP.NET, Team Server Foundation, and SQL Server
+        - item: Deployed to test and production environments using IIS
+        - item: Tested the new functionalities, managed issue tracking and fixed bugs based on customer feedback
+        - item: Collaborated with product owners to identify areas of improvement for the application
+        - item: Designed strategy with the AQUAS Team to develop a solution for the business needs
+        - item: Worked under SCRUM methodology with two-week sprints and daily meetups
+    
+    - logo: https://res.cloudinary.com/aalbero/image/upload/v1597272114/gw_primary_2c_0_kkgj5j.png
+      title: Professor Assitant
+      company: GWU, Dr. Grabriel Parmer
+      duration: May 2020 - Agusut 2020
+      description: Enhanced auto grading software for Dr. Parmer’s Operating Systems class
+      bullets:
+        - item: Merged multiple individual Python script files for each assignment into a single program
+        - item: Improve the organization, readability and maintainability of the code, as well as made it configurable through CSV files without the need of code changes
+        - item: Created C test files to grade students’ assignments and provide them with feedback
+        - item: Documented the software in GitHub for future graders and teaching assistants
+
+    - logo: https://res.cloudinary.com/aalbero/image/upload/v1597272298/software_engineer_logo_hivisn.png
+      title: Software Engineer
+      company: Freelance
+      duration: May 2020 - August 2020
+      description: Created .NET Core application for Families First Counseling and Psychiatry
+      bullets:
+        - item: Merged patient and authorizations data from Dr Cloud and Incedo IT systems
+        - item: Generated reports from this data with valuable insights for the Administration team in Families First
+        - item: Revealed inconsistencies in the patients and authorization information from both systems and provided an easy way to address them
+
+        
 hackathons:
   enable: false
   item:
