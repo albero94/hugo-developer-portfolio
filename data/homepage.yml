@@ -1,17 +1,17 @@
 ---
 banner:
-  title: Hi! I’m Sam
+  title: Hi! I’m Alvaro
 social:
   twitter: ""
-  linkedin: sam-robbins-gb
-  github: samrobbins85
+  linkedin: alvaro-albero-gran-416554128
+  github: albero94
   gitlab: ""
   facebook: ""
   instagram: ""
-  gmail: samrobbinsgb
+  gmail: ealbero94
 about:
   enable: true
-  content: 2nd Year Durham Computer Science Student
+  content: Software Engineer with a MS in Computer Science from George Washington University
   button:
     btnText: Find out more
     URL: "/about"
@@ -21,6 +21,9 @@ skill:
     - title: JavaScript
       logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
       description: Details coming soon, contact me if you want to know more
+    - title: C#
+      logo: https://github.com/albero94/hugo-developer-portfolio/tree/master/static/logos/C_Sharp_logo.svg
+      description: Plenty of experience
 experience:
   enable: true
   item:
