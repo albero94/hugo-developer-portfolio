@@ -1,5 +1,5 @@
 # Base information
-baseURL = "https://example.com"
+baseURL = "https://alvaroalbero-portfolio.netlify.app/"
 languageCode = "en-gb"
 title = "Alvaro Albero"
 theme = "hugo-developer-portfolio"
