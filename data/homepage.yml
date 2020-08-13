@@ -15,7 +15,7 @@ about:
   button:
     btnText: Find out more
     URL: "/about"
-    
+
 skill:
   enable: true
   item:
@@ -37,7 +37,7 @@ skill:
       logo: https://res.cloudinary.com/aalbero/image/upload/v1597329217/microsoft-sql-server_t5met5.svg
   item2:
     - title: Python
-      logo: https://res.cloudinary.com/aalbero/image/upload/v1597260174/python_z1bzpj.jpg
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597260175/python_onqcqa.svg
     - title: Node.js
       logo: https://res.cloudinary.com/aalbero/image/upload/v1597260172/nodejs_tsvkve.svg
     - title: React.js
