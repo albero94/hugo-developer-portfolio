@@ -126,16 +126,8 @@ education:
       image: https://res.cloudinary.com/aalbero/image/upload/v1597272114/gw_primary_2c_0_kkgj5j.png
     - title: BS Telecommunication Engineering
       year: 2013 - 2017
-      academy: Universidad Politecnica de Valencia - Spain
+      academy: Universitat Politècnica de València - Spain
       image: https://res.cloudinary.com/aalbero/image/upload/v1597331199/upv_b4hvys.png
-
-leadership:
-  enable: true
-  item:
-    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793280/logos/logos_yl_qozav6.webp
-      title: Young Leader
-      company: The Scout Association
-      duration: September 2014 - July 2018
 
 portfolio:
   filter:
