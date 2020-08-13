@@ -1,27 +1,21 @@
 ---
-title: "Making a new Website"
-date: 2019-12-31T12:14:34+06:00
-image: "https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg"
-description: "My first blog, introducing my new website"
-author: "Sam Robbins"
+title: "A portfolio website"
+date: 2020-08-13T12:14:34+06:00
+image: "https://res.cloudinary.com/aalbero/image/upload/v1597260175/raspberry-pi_zfsn48.svg"
+description: "Why I created a portfolio webiste"
+author: "Alvaro Albero"
 type: "post"
 ---
-For a long time this website has had a couple of links to contact me, but those days are over.
+As my graduation was approaching, I started preparing my resume, sharpening some technical and interview skills and getting ready for my job search journey. 
+I have previous experience as a Software Engineer and I feel confident about my knowledge, I am always looking to learn more, but I believe I have a solid foundation.
+However, in the past months I have struggle to land some interviews. I think I've done a good job in the ones I got, both in the phone screen and technical interview, but someone did better and I did not get the position.
 
-Now I have a brand new Hugo website with a custom written theme complete with
+Analyzing what could be a solution to the job search problem, I thought that the focus should not be in increasing my interview abilities, if I assume that I have a 20% chance of getting a job once I get to the interview point, assuming they do not need a US citizen or permanent resident (I really think job search websites should have a check for this), increasing this to a 25-30% does not make a big difference. What I believe makes a difference is getting 50 interviews instead of 10, so that is my goal by creating this portfolio website. I think I usually do a good job on explaining who I am, what I know and where I would like to work, but after reading some job search journeys and some people on Twitter I thought that having a portfolio website should definitely help.
 
-* A homepage with more social links, and description of my skills
-* An about page with description of who I am
-* A portfolio page to showcase all my projects
-* A blog
+I give all the credit for the Hugo template to [Sam Robins](https://github.com/samrobbins85/hugo-developer-portfolio). I do not see this website as a personal project, it's just a medium to show my work and write some posts :)
 
-### Why Hugo?
-The first question is why a *site builder*? I'm competent at web development, why not just write it all myself? The markdown processing makes it much easier to just write words, not having to think about the formatting, and if I'm going to blog often, then I'll need that.
+I hope you can learn more about me here.
 
-Next it gets to why Hugo? why not Jekyll or any of the other vast array of site builders? The answer to that is sadly rather boring, it had a theme I liked the look of, in particular [this theme](https://github.com/themefisher/kross-hugo), and it had an MIT license, so I could publish and tweak it as much as I wanted to.
+Best,
+Alvaro.
 
-### Why start blogging?
-A very good question. For one it would allow me to showcase my skills more than just a portfolio would, not everything fits under the umbrella of a portfolio, but I can blog about whatever I want. Secondly is to act as a reminder of how I do things, if I blog my process when I do technical things, I'll always be able to look back and see how I did it if I ever have to do it again.
-
-### So what can I expect to see in the blog?
-The current plan is for the vast majority of posts to be technical guides on how to do things, but there might be some variety if I want to blog about events.
