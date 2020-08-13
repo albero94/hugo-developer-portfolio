@@ -15,6 +15,7 @@ about:
   button:
     btnText: Find out more
     URL: "/about"
+    
 skill:
   enable: true
   item:
@@ -59,6 +60,7 @@ skill:
       logo: https://res.cloudinary.com/aalbero/image/upload/v1597329684/postgres_qpe92s.png
     - title: Linux
       logo: https://res.cloudinary.com/aalbero/image/upload/v1597329684/linux_z2htzd.png
+
 experience:
   enable: true
   item:
@@ -96,7 +98,6 @@ experience:
         - item: Merged patient and authorizations data from Dr Cloud and Incedo IT systems
         - item: Generated reports from this data with valuable insights for the Administration team in Families First
         - item: Revealed inconsistencies in the patients and authorization information from both systems and provided an easy way to address them
-
         
 hackathons:
   enable: false
@@ -105,6 +106,7 @@ hackathons:
       description: Climate change simulator
       image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793405/stickers/Hack_Cambridge_101_ozoq5d.png
       url: none
+
 certifications:
   enable: true
   item:
@@ -114,6 +116,7 @@ certifications:
     - title: Free Code Camp - Altorithms and Data Structures
       image: https://res.cloudinary.com/aalbero/image/upload/v1597330473/freeCodeCamp_yt3qrc.jpg
       url: https://www.freecodecamp.org/certification/fccbe99305c-9fe8-421b-89be-99a00c555f33/javascript-algorithms-and-data-structures
+
 education:
   enable: true
   item:
@@ -125,6 +128,7 @@ education:
       year: 2013 - 2017
       academy: Universidad Politecnica de Valencia - Spain
       image: https://res.cloudinary.com/aalbero/image/upload/v1597331199/upv_b4hvys.png
+
 leadership:
   enable: true
   item:
@@ -132,6 +136,7 @@ leadership:
       title: Young Leader
       company: The Scout Association
       duration: September 2014 - July 2018
+
 portfolio:
   filter:
     - label: Web Dev
