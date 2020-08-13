@@ -23,14 +23,17 @@ skill:
     - title: JavaScript
       logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
     - title: SQL
-      logo: https://res.cloudinary.com/aalbero/image/upload/v1597260175/sql_rsxmdi.jpg
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597329407/sql_qwb51w.png
     - title: .NET Core
       logo: https://res.cloudinary.com/aalbero/image/upload/v1597260162/.net_core_pxrqly.png
     - title: Git
       logo: https://res.cloudinary.com/aalbero/image/upload/v1597260162/git_srcx8t.svg
     - title: Algorithms & Data Structures
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597329217/data-structures-algorithms_uhvuyj.png
     - title: Object Oriented Programming and SOLID
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597330099/oop_rs1y11.jpg
     - title: SQL Server
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597329217/microsoft-sql-server_t5met5.svg
   item2:
     - title: Python
       logo: https://res.cloudinary.com/aalbero/image/upload/v1597260174/python_z1bzpj.jpg
@@ -41,13 +44,21 @@ skill:
     - title: Docker
       logo: https://res.cloudinary.com/aalbero/image/upload/v1597260172/docker_w6aec5.png
     - title: Xamarin
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597329684/xamarin_rn7tod.png
     - title: Flutter
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597329684/flutter_xas5tm.png
     - title: Test Driven Development
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597330099/test-driven-development-TDD_bx1qul.png
     - title: Azure
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597329684/Azure_n8ztwk.png
     - title: AWS
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597329790/aws_dwbjk9.jpg
     - title: MySQL
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597329685/MySql_woppjg.png
     - title: PostgreSQL
-    - title: WSL
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597329684/postgres_qpe92s.png
+    - title: Linux
+      logo: https://res.cloudinary.com/aalbero/image/upload/v1597329684/linux_z2htzd.png
 experience:
   enable: true
   item:
