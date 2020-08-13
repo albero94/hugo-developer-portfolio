@@ -10,31 +10,31 @@ type = "post"
 [[tech]]
 logo = "https://res.cloudinary.com/aalbero/image/upload/v1597260162/.net_core_pxrqly.png"
 name = ".NET Core"
-url = "https://gohugo.io/"
+url = "https://dotnet.microsoft.com/"
 [[tech]]
 logo = "https://res.cloudinary.com/aalbero/image/upload/v1597260164/C_Sharp_logo_yagaj2.svg"
 name = "C#"
-url = "https://gohugo.io/"
+url = "https://docs.microsoft.com/en-us/dotnet/csharp/"
 [[tech]]
 logo = "https://res.cloudinary.com/aalbero/image/upload/v1597329684/Azure_n8ztwk.png"
 name = "Azure"
-url = "https://getuikit.com/"
+url = "https://azure.microsoft.com/en-us/"
 [[tech]]
 logo = "https://res.cloudinary.com/aalbero/image/upload/v1597339169/Android-Logo_dsa4ot.png"
 name = "Android"
-url = "https://forestry.io/"
+url = "https://www.android.com/"
 [[tech]]
 logo = "https://res.cloudinary.com/aalbero/image/upload/v1597339130/kotlin_tlswfg.png"
 name = "Kotlin"
-url = "https://forestry.io/"
+url = "https://kotlinlang.org/"
 [[tech]]
 logo = "https://res.cloudinary.com/aalbero/image/upload/v1597260175/raspberry-pi_zfsn48.svg"
 name = "Raspberyy PI"
-url = "https://forestry.io/"
+url = "https://www.raspberrypi.org/"
 [[tech]]
 logo = "https://res.cloudinary.com/aalbero/image/upload/v1597260175/python_onqcqa.svg"
 name = "Python"
-url = "https://forestry.io/"
+url = "https://www.python.org/"
 
 +++
 

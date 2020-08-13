@@ -10,15 +10,15 @@ type = "post"
 [[tech]]
 logo = "https://res.cloudinary.com/aalbero/image/upload/v1597260162/.net_core_pxrqly.png"
 name = ".NET Core"
-url = "https://gohugo.io/"
+url = "https://dotnet.microsoft.com/"
 [[tech]]
 logo = "https://res.cloudinary.com/aalbero/image/upload/v1597260164/C_Sharp_logo_yagaj2.svg"
 name = "C#"
-url = "https://gohugo.io/"
+url = "https://docs.microsoft.com/en-us/dotnet/csharp/"
 [[tech]]
 logo = "https://res.cloudinary.com/aalbero/image/upload/v1597329407/sql_qwb51w.png"
 name = "SQL LocalDB"
-url = "https://forestry.io/"
+url = "https://docs.microsoft.com/en-us/sql/database-engine/configure-windows/sql-server-express-localdb?view=sql-server-ver15"
 +++
 
 ## Description

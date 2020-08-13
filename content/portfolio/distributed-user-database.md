@@ -9,20 +9,20 @@ title = "Distributed User Database"
 type = "post"
 [[tech]]
 logo = "https://res.cloudinary.com/aalbero/image/upload/v1597260172/nodejs_tsvkve.svg"
-name = "Node.js"
+name = "https://nodejs.org/en/"
 url = "https://gohugo.io/"
 [[tech]]
 logo = "https://res.cloudinary.com/aalbero/image/upload/v1597341192/grpc_emgilo.png"
 name = "gRPC"
-url = "https://forestry.io/"
+url = "https://grpc.io/"
 [[tech]]
 logo = "https://res.cloudinary.com/aalbero/image/upload/v1597341110/protobuf_r5eb6a.png"
 name = "Protocol Buffers"
-url = "https://gohugo.io/"
+url = "https://developers.google.com/protocol-buffers"
 [[tech]]
 logo = "https://res.cloudinary.com/aalbero/image/upload/v1597341297/Chord_network_ymg0nn.png"
 name = "Chord Algorithm"
-url = "https://gohugo.io/"
+url = "https://pdos.csail.mit.edu/papers/ton:chord/paper-ton.pdf"
 +++
 
 ### [Clik here to watch a Demo](https://www.youtube.com/watch?v=x2AixjsanyE)
