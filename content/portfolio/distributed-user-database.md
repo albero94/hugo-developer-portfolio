@@ -9,8 +9,8 @@ title = "Distributed User Database"
 type = "post"
 [[tech]]
 logo = "https://res.cloudinary.com/aalbero/image/upload/v1597260172/nodejs_tsvkve.svg"
-name = "https://nodejs.org/en/"
-url = "https://gohugo.io/"
+name = "Node.js"
+url = "https://nodejs.org/en/"
 [[tech]]
 logo = "https://res.cloudinary.com/aalbero/image/upload/v1597341192/grpc_emgilo.png"
 name = "gRPC"
