@@ -38,7 +38,7 @@ url = "https://www.python.org/"
 
 +++
 
-### [Click here to watch a Demo](https://drive.google.com/open?id=1d16epz6AwzkoG-WXnCZSgXjU2IlyBvqN)
+### [Click here to watch a Demo](https://drive.google.com/file/d/1d16epz6AwzkoG-WXnCZSgXjU2IlyBvqN/view?usp=sharing)
 
 ## Description
 We have created a smart door application that uses face recognition. The basic description of the service is, we have a cloud application that contains the list and images of people that are allowed into the house. We have a mobile application that is used as an administrator and can add and delete people from the list and operate the door lock directly. We have an IOT system with a Raspberry PI, a camera and a lock actuator that will take a picture of the person trying to get into the house, send it to the cloud service, and operate the door if there is a match in the face.
