@@ -76,12 +76,12 @@ experience:
         - item: Tested the new functionalities, managed issue tracking and fixed bugs based on customer feedback
         - item: Collaborated with product owners to identify areas of improvement for the application
         - item: Designed strategy with the AQUAS Team to develop a solution for the business needs
-        - item: Worked under SCRUM methodology with two-week sprints and daily meetups
+        - item: Worked under SCRUM methodology with two-week sprints and daily standups
     
     - logo: https://res.cloudinary.com/aalbero/image/upload/v1597272114/gw_primary_2c_0_kkgj5j.png
-      title: Professor Assitant
+      title: Professor Assistant
       company: GWU, Dr. Grabriel Parmer
-      duration: May 2020 - Agusut 2020
+      duration: May 2020 - Augusut 2020
       description: Enhanced auto grading software for Dr. Parmer’s Operating Systems class
       bullets:
         - item: Merged multiple individual Python script files for each assignment into a single program
@@ -113,7 +113,7 @@ certifications:
     - title: AWS Cloud Foundations
       image: https://res.cloudinary.com/aalbero/image/upload/v1597330473/AWS-CloudPractitioner_itkvji.png
       url: https://www.youracclaim.com/badges/373d0b5d-7945-4ea3-9932-43b226f6abb5/public_url
-    - title: Free Code Camp - Altorithms and Data Structures
+    - title: Free Code Camp - Algorithms and Data Structures
       image: https://res.cloudinary.com/aalbero/image/upload/v1597330473/freeCodeCamp_yt3qrc.jpg
       url: https://www.freecodecamp.org/certification/fccbe99305c-9fe8-421b-89be-99a00c555f33/javascript-algorithms-and-data-structures
 

@@ -2,7 +2,7 @@
 categories = ["web-dev"]
 coders = []
 date = 2020-04-25T23:00:00Z
-description = "A smart door system"
+description = "A smart door system as a final project of my IOT class"
 github = ["https://github.com/albero94/20_mystery-men"]
 image = "https://res.cloudinary.com/aalbero/image/upload/v1597260175/raspberry-pi_zfsn48.svg"
 title = "Smart Door System"
@@ -29,7 +29,7 @@ name = "Kotlin"
 url = "https://kotlinlang.org/"
 [[tech]]
 logo = "https://res.cloudinary.com/aalbero/image/upload/v1597260175/raspberry-pi_zfsn48.svg"
-name = "Raspberyy PI"
+name = "Raspberry PI"
 url = "https://www.raspberrypi.org/"
 [[tech]]
 logo = "https://res.cloudinary.com/aalbero/image/upload/v1597260175/python_onqcqa.svg"
@@ -38,15 +38,15 @@ url = "https://www.python.org/"
 
 +++
 
-### [Clik here to watch a Demo](https://drive.google.com/open?id=1d16epz6AwzkoG-WXnCZSgXjU2IlyBvqN)
+### [Click here to watch a Demo](https://drive.google.com/open?id=1d16epz6AwzkoG-WXnCZSgXjU2IlyBvqN)
 
 ## Description
-We have created a smart door application that uses face recognition. The basic description of the service is, we have a cloud application that contains the list and images of people that are allowed into the house. We have a mobile application that is used as an administrator and can add and delete people from the list and operate the door lock directly. We have an IoT system with a Raspberry PI, a camera and a lock actuator that will take a picture of the person trying to get into the house, send it to the cloud service, and operate the door if there is a match in the face.
+We have created a smart door application that uses face recognition. The basic description of the service is, we have a cloud application that contains the list and images of people that are allowed into the house. We have a mobile application that is used as an administrator and can add and delete people from the list and operate the door lock directly. We have an IOT system with a Raspberry PI, a camera and a lock actuator that will take a picture of the person trying to get into the house, send it to the cloud service, and operate the door if there is a match in the face.
 
 * [Face Recognition Server](https://github.com/albero94/20_mystery-men/tree/master/FaceRecognitionServer) contains the cloud service
 * [Android](https://github.com/albero94/20_mystery-men/tree/master/android) contains the mobile application
 * [PI](https://github.com/albero94/20_mystery-men/tree/master/pi) contains the Raspberry PI code to manage the actuators
-* [Deployment](https://github.com/albero94/20_mystery-men/tree/master/deployment) contans the files to deploy the project
+* [Deployment](https://github.com/albero94/20_mystery-men/tree/master/deployment) contains the files to deploy the project
 * A short demo video can be found .
 
 ## Deployment
@@ -62,6 +62,6 @@ To deploy the cloud application
 To deploy the mobile application
 * Download the [APK](https://github.com/albero94/20_mystery-men/tree/master/deployment/android/FaceMatch-Door-Lock.apk) and install on an Android Device, or build the [project](https://github.com/albero94/20_mystery-men/tree/master/android) in Android Studio and run in an emulator.
 
-To deploy the IoT component
+To deploy the IOT component
 * Download [controller.py](https://github.com/albero94/20_mystery-men/tree/master/deployment/pi/controller.py) and run on a Raspberry Pi.
 * A wiring example can be found [here](https://github.com/albero94/20_mystery-men/tree/master/deployment/pi/wiring.JPG)
